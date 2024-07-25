@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+    --font-londrina-outline: "Londrina Outline";
+  
+    /* font sizes */
+    --font-size-4xl: 23px;
+    --font-size-lg: 18px;
+    --font-size-xs: 12px;
+    --font-size-11xl: 30px;
+    --font-size-5xl: 24px;
+    --font-size-base: 16px;
+    --font-size-105xl: 124px;
+    --font-size-12xl: 31px;
+    --font-size-31xl: 50px;
+    --font-size-xl: 20px;
+    --font-size-lgi: 19px;
+    --font-size-61xl: 80px;
+    --font-size-21xl: 40px;
+    --font-size-13xl: 32px;
+    --font-size-7xl: 26px;
+    --font-size-mid: 17px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gray-100: #939395;
+    --color-gainsboro: #e8e7ea;
+    --color-black: #000;
+    --color-blueviolet: #9747ff;
+    --color-darkorchid-100: #b061ff;
+    --color-darkorchid-200: rgba(176, 97, 255, 0.09);
+    --color-lightblue: #aee2ff;
+    --color-skyblue: #93c6e7;
+  
+    /* Gaps */
+    --gap-xl: 20px;
+    --gap-mini: 15px;
+    --gap-2xs: 11px;
+    --gap-5xs: 8px;
+    --gap-lg: 18px;
+    --gap-mid: 17px;
+  
+    /* Paddings */
+    --padding-51xl: 70px;
+    --padding-12xs: 1px;
+    --padding-xl: 20px;
+    --padding-10xs: 3px;
+    --padding-11xs: 2px;
+    --padding-48xl: 67px;
+    --padding-mini: 15px;
+    --padding-4xl: 23px;
+    --padding-9xs: 4px;
+    --padding-325xl: 344px;
+    --padding-322xl: 341px;
+    --padding-538xl: 557px;
+    --padding-259xl: 278px;
+    --padding-127xl: 146px;
+    --padding-125xl: 144px;
+    --padding-205xl: 224px;
+    --padding-203xl: 222px;
+    --padding-16xl: 35px;
+  
+    /* Border radiuses */
+    --br-10xl-5: 29.5px;
+  }
